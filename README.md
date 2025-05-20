@@ -1,126 +1,89 @@
-
-<div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+Kai!;Welcome;To+my+GitHub+world!🚀"
-            alt="Typing SVG"
-        /
-        >
-    </a>
-</p>
-</div>
+<h1 align="center">Aeon San</h1>
 
 
-<h2 align="center"></h2>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kai0071&label=Profile%20views&color=0e75b6&style=flat" alt="kai0071" /> </p>
+<p align="center">I’m a Computer Science student</p>
+<p align="center">learning <strong>backend-focused</strong> full stack development,</p>
+<p align="center">currently learning <strong>Next.js</strong> and <strong>TypeScript</strong>.</p>
+<p align="center">Also exploring <strong>Artificial Intelligence (AI)</strong> and <strong>Machine Learning (ML)</strong> as part of my academic journey.</p>
 
 <br>
 
 <p align="center">
-  <a href="https://wa.me/916297175943"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
-  <a href="https://youtube.com/@linuxsoul?si=McGP13l4BEz-NjRU"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="30" height="30"></a>
+  <a href="mailto:aeonulinux@gmail.com" title="Email" style="text-decoration:none; color:inherit; font-size: 32px;">
+    ✉️
+  </a>
 </p>
 
-    
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Aeon-San&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
 
 
-   <br>
+<br>
 
-   </p>
-<h2 align="center"> 💫 Now Listening On Spotify 💫
-</h2>
-<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
-
- 
- <BR>
-<h2 align="center"></h2>
+<h3 align="center">🛠 Languages and Tools</h3>
+<hr style="width: 100px; border: 1px solid #000; margin: auto; margin-top: 0; margin-bottom: 20px;" />
 
 
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
 </div>
 
-###
-
-
-
 <br>
 
-
-<!-- 
-<h2 align="center"></h2> -->
-
-
-<br>
-
-
 <p align="center">
-  <a href="https://github.com/Kai0071"> <img  alt="Kai0071's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kai0071?cardType=github&theme=github-dark&preferLogin=true" />  </a>
-
-
-
-<p align="center">
-  <a href="https://github.com/Kai0071">
-    <img src="https://streak-stats.demolab.com?user=Kai0071&theme=dark&background=000000" alt="GitHub Streak">
+  <a href="https://github.com/Aeon-San">
+    <img src="https://streak-stats.demolab.com?user=Aeon-San&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
 </p>
 
+<br>
 
- <!-- <p align="center">
-    <a href="https://github.com/Kai0071">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kai0071&theme=redical" alt="Stats">
-    </a>
-</p> -->
-
-
-<!-- <p align="center"><a href="https://github.com/Kai0071"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kai0071&theme=radical&layout=compact"></a></p>  -->
-
-
+<h2 align="center">✨ Spotify Tunes ✨</h2>
+<p align="center">
+  <img src="https://kai-spotify.vercel.app/api/spotify" alt="Now Listening on Spotify" />
+</p>
